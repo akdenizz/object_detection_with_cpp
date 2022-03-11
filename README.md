@@ -123,7 +123,7 @@ $ ./yolov4_out
 
 ```
 $ cd yolov5
-$ g++ yolov5_detect.cpp -o yolov4_out -std=c++11 `pkg-config --cflags --libs opencv4`
+$ g++ yolov5_detect.cpp -o yolov5_out -std=c++11 `pkg-config --cflags --libs opencv4`
 $ ./yolov5_out
 ```
 # 🌚HAVE FUN!🌝
